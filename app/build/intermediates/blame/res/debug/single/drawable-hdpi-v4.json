@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_pause_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_repeat_focused.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_repeat_focused.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_repeat_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_repeat_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_seekbar_bg.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_seekbar_bg.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_pause.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_pause.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_shuffle.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_shuffle.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_backward.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_backward.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_forward_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_forward_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_shuffle_focused.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_shuffle.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_shuffle.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_forward.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_forward.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_next.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_playlist.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_playlist.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_next.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_next.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/seekbar_progress.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/seekbar_progress.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_previous.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_previous.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/seek_handler.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/seek_handler.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_play.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_play.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_play.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_play.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_next_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_next_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_seekbar_progress_blue.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_seekbar_progress_blue.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_forward.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_forward.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_previous.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_previous.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_playlist.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_playlist.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/track_info_bg.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/track_info_bg.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/adele.jpg",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/adele.jpg"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_repeat.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_repeat.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gradient_bg.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/gradient_bg.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_backward_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_backward_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_playlist_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_playlist_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_shuffle_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_shuffle_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_backward.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_backward.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/seekbar_progress_bg.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gradient_bg_hover.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/gradient_bg_hover.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_previous_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_previous_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_pause.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_pause.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_repeat.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/btn_repeat.xml"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_btn_play_pressed.png",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/img_btn_play_pressed.png"
+    },
+    {
+        "merged": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_selector.xml",
+        "source": "/home/yujinrobot/StudioProjects/AndroidBuildingMusicPlayer/app/src/main/res/drawable-hdpi/list_selector.xml"
+    }
+]
